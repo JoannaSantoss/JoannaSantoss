@@ -42,5 +42,11 @@ jobs:
           # the output branch we mentioned above
           target_branch: output
           build_dir: dist
+
+![snake gif](https://github.com/JoannaSantoss/JoannaSantoss/blob/output/github-contribution-grid-snake.svg)
+
+
+
+      
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
