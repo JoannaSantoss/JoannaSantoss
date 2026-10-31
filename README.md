@@ -100,9 +100,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 [![Repositories](https://img.shields.io/badge/My_Repositories-56070c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoannaSantoss)
 [![Projeto de Estudos](https://img.shields.io/badge/Content-56070c?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JoannaSantoss/Programacao-Web1.git)
-[![Studious](https://img.shields.io/badge/StudiousMind-56070c?style=for-the-badge&logo=java&logoColor=white)]
+[![Studiousmind](https://img.shields.io/badge/Content-56070c?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JoannaSantoss/Studiousmind.git)
 
-![snake gif](https://github.com/JoannaSantoss/JoannaSantoss/blob/output/github-contribution-grid-snake.svg)
+
 
 (https://github.com/JoannaSantoss/Studiousmind.git)
 
