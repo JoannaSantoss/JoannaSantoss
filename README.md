@@ -103,5 +103,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 [![Studious](https://img.shields.io/badge/StudiousMind-56070c?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JoannaSantoss/Studiousmind.git)
 
 
-(https://github.com/JoannaSantoss/Studiousmind.git)
 
