@@ -1,3 +1,4 @@
+
 #  ☕ Joanna Santos
 
 **`Full Stack Developer Student`** **`Curious Learner & Enthusiast`** 
@@ -61,8 +62,12 @@
 
 <br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoannaSantoss&layout=compact&langs_count=4&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=JoannaSantoss&layout=compact&langs_count=4&theme=date_night)
  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JoannaSantoss&hide_rank=true&hide_title=true&include_all_commits=true&disable_animations=true&theme=date_night)](https://github-stats-extended.vercel.app/api?username=JoannaSantoss&hide_rank=true&hide_title=true&include_all_commits=true&disable_animations=true&theme=date_night)
+ 
+ <br>
+ 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoannaSantoss&layout=compact&langs_count=4&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=JoannaSantoss&layout=compact&langs_count=4&theme=date_night)
+
 
 --- 
  
