@@ -20,8 +20,8 @@
 <br>
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML" 
+    title="HTML"
     width="40px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
