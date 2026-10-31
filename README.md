@@ -11,21 +11,14 @@
    ### Find me on:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoannaSantoss)
  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joanna-santos-da-silva)
- [![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joannasantosdasilva17@gmail.com)
+ 
 
 ---
 
 ###  Languages and Technology
 
 <br>
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="40px" 
-    style="padding-right: 25px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="CSS" 
@@ -50,6 +43,14 @@
     width="40px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 25px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 
