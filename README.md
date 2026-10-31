@@ -12,6 +12,8 @@
    ### Find me on:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoannaSantoss)
  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joanna-santos-da-silva)
+
+
  
 
 ---
@@ -20,6 +22,14 @@
 
 <br>
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 25px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 <img 
     align="left" 
     alt="CSS" 
@@ -36,6 +46,28 @@
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img
+ align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 25px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img
+   align="left" 
+    alt="Arduino"
+    title="Arduino" 
+    width="40px" 
+    style="padding-right: 25px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+ <img 
+align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 25px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -44,15 +76,6 @@
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 25px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
 
 <br/>
 <br/>
@@ -77,5 +100,9 @@
 
 [![Repositories](https://img.shields.io/badge/My_Repositories-56070c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoannaSantoss)
 [![Projeto de Estudos](https://img.shields.io/badge/Content-56070c?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JoannaSantoss/Programacao-Web1.git)
-[![Studious](https://img.shields.io/badge/StudiousMind-56070c?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JoannaSantoss/Studiousmind.git)
+[![Studious](https://img.shields.io/badge/StudiousMind-56070c?style=for-the-badge&logo=java&logoColor=white)]
+
+![snake gif](https://github.com/JoannaSantoss/JoannaSantoss/blob/output/github-contribution-grid-snake.svg)
+
+(https://github.com/JoannaSantoss/Studiousmind.git)
 
